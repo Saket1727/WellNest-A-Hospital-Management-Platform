@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  background-color: #03989E;
+}
+.explore{
+  margin-left: 4vw;
+  margin-right:3vw ;
+}
+h1{ 
+  font-weight: 900;
+  font-size: 3rem;
+  margin-top: -30px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+h3{
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
